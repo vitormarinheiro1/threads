@@ -3,12 +3,10 @@
 <p align="center">
  <a href="#tech">Technologies</a> • 
  <a href="#started">Getting Started</a> • 
-  <a href="#colab">Collaborators</a> •
- <a href="#contribute">Contribute</a>
 </p>
 
 <p align="center">
-    <b>Simple description of what your project do or how to use it</b>
+    <b>Projeto Simples de Criação de Perfil no Threads</b>
 </p>
 
 <p align="center">
@@ -18,8 +16,8 @@
 <h2 id="layout">🎨 Layout</h2>
 
 <p align="center">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
-    <img src="../.github/example.png" alt="Image Example" width="400px">
+    <img src="./public/project.png" alt="Image 1" width="400px">
+    <img src="./public/project1.png" alt="Image 2" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
@@ -37,14 +35,14 @@ Here you describe how to run your project locally
 Here you list all prerequisites necessary for running your project. For example:
 
 - [NodeJS](https://github.com/)
-- [Git 2](https://github.com)
+- [Git](https://github.com)
 
 <h3>Cloning</h3>
 
 How to clone your project
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/vitormarinheiro1/threads.git
 ```
 
 <h3>Starting</h3>
@@ -56,15 +54,6 @@ cd project-name
 npm install
 npm start
 ```
-
-<h2 id="contribute">📫 Contribute</h2>
-
-Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
-
-1. `git clone https://github.com/vitormarinheiro1/threads.git`
-2. `git checkout -b feature/NAME`
-3. Follow commit patterns
-4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
 
 <h3>Documentations that might help</h3>
 
