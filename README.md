@@ -32,8 +32,6 @@ Here you describe how to run your project locally
 
 <h3>Prerequisites</h3>
 
-Here you list all prerequisites necessary for running your project. For example:
-
 - [NodeJS](https://nodejs.org/en)
 - [Git](https://git-scm.com/)
 
@@ -50,7 +48,7 @@ git clone https://github.com/vitormarinheiro1/threads.git
 How to start your project
 
 ```bash
-cd project-name
+cd threads
 npm install
 npm start
 ```
