@@ -68,23 +68,23 @@ const Profile = () => {
 
             <Biografia>
                 <TextoBiografia>
-                    🕐 Programador sênior há 7 anos.
+                    🕐 Programador fullstack há 2 anos.
                 </TextoBiografia>
                 <TextoBiografia>
-                    🥇 Itaú - BTG Pactual - Wiser Educação
+                    🥇 Ciência da computação
                 </TextoBiografia>
                 <TextoBiografia>
-                    🧠 Criação do Framework CSMR
+                    🧠 Dev Fullstack
                 </TextoBiografia>
                 <TextoBiografia>
-                    🔥 Minha escola de programação
+                    🔥 Meu portfólio 👇
                 </TextoBiografia>
             </Biografia>
 
             <ContainerSeguidoresLink>
                 <DivSeguidoresLink>
                     <TextoCustomizavel color="#616161" size="14.5">
-                        400 seguidores . onovoprogramador.com
+                        174 seguidores . vitormarinheiro.vercel.app
                     </TextoCustomizavel>
                 </DivSeguidoresLink>
 

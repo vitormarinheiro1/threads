@@ -175,6 +175,7 @@ export const TextoCustomizavel = styled.p<TypeTextoCustomizavel>`
 `;
 
 export const Icone = styled.img<TypeIcone>`
+    cursor: pointer;
     width: 100%;
     border-radius: ${(props) => props.radius ? props.radius : "0px"};
     border: ${(props) => props.border ? props.border : "0px"};
@@ -288,4 +289,5 @@ export const BotaoBaixarThreads = styled.button`
     border-radius: 10px;
     font-weight: 300px;
     margin-top: 30px;
+    cursor: pointer;
 `;
