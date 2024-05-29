@@ -20,7 +20,7 @@
     <img src="./public/project1.png" alt="Image 2" width="400px">
 </p>
 
-<h2 id="technologies">💻 Technologies</h2>
+<h2 id="tech">💻 Technologies</h2>
 
 - Reactjs
 - Typescript
